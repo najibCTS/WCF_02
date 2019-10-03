@@ -1,0 +1,33 @@
+﻿Installing assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Rolling back assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Installing assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Rolling back assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Installing assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Installing service Weather Windows Service...
+Service Weather Windows Service has been successfully installed.
+Creating EventLog source Weather Windows Service in log Application...
+Committing assembly 'C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe

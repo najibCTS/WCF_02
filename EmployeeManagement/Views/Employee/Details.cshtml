@@ -1,0 +1,44 @@
+﻿@model EmployeeManagement.Models.Employee
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpFna)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpFna)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpLna)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpLna)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dept)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dept)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.EmpId  }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

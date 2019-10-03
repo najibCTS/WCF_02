@@ -1,0 +1,6 @@
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\bin\Debug\22_WCF_Assignment_02.dll.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\bin\Debug\22_WCF_Assignment_02.dll
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\bin\Debug\22_WCF_Assignment_02.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\obj\Debug\22_WCF_Assignment_02.csproj.CoreCompileInputs.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\obj\Debug\22_WCF_Assignment_02.dll
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\22_WCF_Assignment_02\obj\Debug\22_WCF_Assignment_02.pdb

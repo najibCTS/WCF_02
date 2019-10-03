@@ -1,0 +1,11 @@
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\EmployeeHost.exe.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\EmployeeHost.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\EmployeeHost.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\22_WCF_Assignment_02.dll
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\22_WCF_Assignment_02.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\bin\Debug\22_WCF_Assignment_02.dll.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\obj\Debug\EmployeeHost.csprojAssemblyReference.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\obj\Debug\EmployeeHost.csproj.CoreCompileInputs.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\obj\Debug\EmployeeHost.csproj.CopyComplete
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\obj\Debug\EmployeeHost.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\EmployeeHost\obj\Debug\EmployeeHost.pdb

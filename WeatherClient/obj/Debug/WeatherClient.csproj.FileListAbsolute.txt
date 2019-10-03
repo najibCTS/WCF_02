@@ -1,0 +1,7 @@
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\bin\Debug\WeatherClient.exe.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\bin\Debug\WeatherClient.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\bin\Debug\WeatherClient.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\obj\Debug\WeatherClient.csproj.CoreCompileInputs.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\obj\Debug\WeatherClient.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\obj\Debug\WeatherClient.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherClient\obj\Debug\WeatherClient.csprojAssemblyReference.cache

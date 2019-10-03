@@ -1,0 +1,13 @@
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherWindowService.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherService.dll
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherService.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\bin\Debug\WeatherService.dll.config
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.csprojAssemblyReference.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.csproj.CoreCompileInputs.cache
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.csproj.CopyComplete
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.exe
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.pdb
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.WeatherServiceInstaller.resources
+C:\Najib\FSD\SourceCode\22_WCF_Assignment_02\WeatherWindowService\obj\Debug\WeatherWindowService.csproj.GenerateResource.cache

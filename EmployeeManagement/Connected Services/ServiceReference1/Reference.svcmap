@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3b18fad1-febc-4cfd-8efd-12136b545c7b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/EmployeeHost" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="2e4d052f-7a76-44d9-9b5f-9ffb53a8aaf1" SourceId="1" SourceUrl="http://localhost:8733/EmployeeHost?wsdl" />
+    <MetadataFile FileName="EmployeeHost.xsd" MetadataType="Schema" ID="9f23ac45-e3af-4be9-a35c-905ecfb299b0" SourceId="1" SourceUrl="http://localhost:8733/EmployeeHost?xsd=xsd2" />
+    <MetadataFile FileName="EmployeeHost.disco" MetadataType="Disco" ID="eba05e51-1f61-4caf-960b-48af810f40b6" SourceId="1" SourceUrl="http://localhost:8733/EmployeeHost?disco" />
+    <MetadataFile FileName="EmployeeHost1.xsd" MetadataType="Schema" ID="c0d5e82a-7a0b-4472-a453-2de40ac3b456" SourceId="1" SourceUrl="http://localhost:8733/EmployeeHost?xsd=xsd0" />
+    <MetadataFile FileName="EmployeeHost2.xsd" MetadataType="Schema" ID="e8037dd6-2fcb-4d67-883b-dab047b0d161" SourceId="1" SourceUrl="http://localhost:8733/EmployeeHost?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
